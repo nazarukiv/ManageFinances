@@ -1,0 +1,48 @@
+{
+  "Uncategorized": [],
+  "Groceries": [
+    "grocery", "groceries", "supermarket", "tesco", "sainsbury", "aldi", "lidl", "asda", "morrisons", "budgens", "coop", "co-op", "ealing green local", "food and wine", "poundland"
+  ],
+  "Eating Out": [
+    "restaurant", "cafe", "pret", "mcdonald", "kfc", "subway", "coffee", "costa", "starbucks", "eating out", "food", "wasabi", "pub", "bar", "wagamama", "spoons", "jd wetherspoon", "meal", "aramark"
+  ],
+  "Bills": [
+    "bill", "utility", "gas", "electric", "energy", "water", "thames water", "tv", "broadband", "council", "subscription", "soundcloud", "apple.com", "netflix", "giffgaff", "rent", "bill payment", "phone", "internet"
+  ],
+  "Transport": [
+    "uber", "train", "bus", "taxi", "oyster", "tfl", "rail", "thameslink", "trainpal", "bolt", "fuel", "shell", "petrol", "station", "travel"
+  ],
+  "Income": [
+    "income", "salary", "pay", "payment from", "money for", "interest", "deposit", "from i nazaruk", "starling bank", "topup", "revolut", "received"
+  ],
+  "Savings": [
+    "saving", "vault", "transfer to saving", "interest earned", "monzo pot", "emma", "stash", "investment"
+  ],
+  "Shopping": [
+    "shopping", "clothes", "pull and bear", "asos", "primark", "zara", "hm", "jd sports", "nike", "adidas", "shopping online", "temu", "amazon", "ikea", "store", "item", "buy"
+  ],
+  "Health": [
+    "pharmacy", "boots", "prescription", "doctor", "dentist", "optician", "specsavers", "gp", "health"
+  ],
+  "Fitness": [
+    "gym", "fitness", "workout", "puregym", "membership", "fit", "health club", "pt"
+  ],
+  "Education": [
+    "school", "college", "university", "course", "udemy", "coursera", "class", "lesson", "subscription learning", "education", "tutor", "exam", "book"
+  ],
+  "Entertainment": [
+    "netflix", "spotify", "cinema", "paddy power", "bet365", "betway", "entertainment", "youtube", "movie", "fun", "subscription", "geoguessr", "apple.com", "playstation", "gaming", "game", "snappy snaps", "virgin bet", "ladbrokes", "casino"
+  ],
+  "Travel": [
+    "holiday", "booking.com", "hotel", "airbnb", "ryanair", "easyjet", "trip", "train", "bus", "airport", "holiday", "luggage", "clayton hotel", "trip.com"
+  ],
+  "Other": [
+    "other", "misc", "random", "paypal", "bank transfer", "uncategorized", "manual", "adjustment", "cash"
+  ],
+  "Tickets": [
+    "ticket", "event", "concert", "gig", "sports", "football", "cinema", "booking", "snappyticket", "eventbrite"
+  ],
+  "Gifts": [
+    "gift", "present", "birthday", "holiday gift", "surprise", "thanks", "donation", "charity", "to friend"
+  ]
+}
